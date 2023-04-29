@@ -1,2 +1,2 @@
 # leetcode-java-solutions
-Repo to store Leetcode solutions and explainations as comments
+Personal Repo to store Leetcode solutions and explainations as comments
